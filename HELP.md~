@@ -1,0 +1,12 @@
+## Panasonic Projectors
+
+This module uses PJLink to control Panasonic Projectors. PJLink must be enabled on the projector and the admin password must be blank.
+
+**Available commands**
+
+* Power On
+* Power Off
+* Shutter Open
+* Shutter Close
+* Input Freeze
+* Input Unfreeze
