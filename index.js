@@ -196,13 +196,6 @@ instance.prototype.config_fields = function () {
 			width: 6,
 			regex: self.REGEX_IP
 		},
-		{
-			type: 'text',
-			id: 'password',
-			label: 'PJLink password is empty',
-			value: '',
-			width: 6		
-		}
 /*
 		{
 			type: 'textinput',
