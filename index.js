@@ -209,8 +209,8 @@ instance.prototype.config_fields = function () {
 			id: 'password',
 			label: 'PJLink password (empty for none)',
 			width: 6
-*/
 		}
+*/
 	]
 };
 
