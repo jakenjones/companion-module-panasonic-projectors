@@ -8,7 +8,7 @@
 	],
 	"manufacturer": "Panasonic",
 	"product": "Projector",
-	"shortname": "panasonicprojectors",
+	"shortname": "projectors",
 	"description": "Panasonic Projectors plugin for Companion",
 	"main": "index.js",
 	"scripts": {

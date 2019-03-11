@@ -1,19 +1,19 @@
 {
-	"name": "pjlink",
-	"version": "1.0.1",
+	"name": "panasonic-projectors",
+	"version": "1.0.0",
 	"api_version": "1.0.0",
 	"keywords": [
 		"Projector",
-		"Protocol"
+		"Panasonic"
 	],
-	"manufacturer": "PJLink",
+	"manufacturer": "Panasonic",
 	"product": "Projector",
-	"shortname": "pjlink",
-	"description": "PJ-Link plugin for Companion",
-	"main": "pjlink.js",
+	"shortname": "panasonicprojectors",
+	"description": "Panasonic Projectors plugin for Companion",
+	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"author": "Per Roine <per.roine@gmail.com>",
+	"author": "Jake Jones <jake@thejoneses.family>",
 	"license": "MIT"
 }
