@@ -222,8 +222,8 @@ instance.prototype.actions = function(system) {
 	var self = this;
 
 	self.system.emit('instance_actions', self.id, {
-		'powerOn':        { label: 'Power On Projector' },
-		'powerOff':       { label: 'Power Off Projector' },
+		'powerOn':        { label: 'Power On' },
+		'powerOff':       { label: 'Power Off' },
 		'shutterOpen':    { label: 'Open Shutter' },
 		'shutterClose':   { label: 'Close Shutter' },
 		'freeze':         { label: 'Freeze Input' },
