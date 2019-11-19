@@ -1,19 +1,27 @@
 {
-	"name": "panasonic-projectors",
-	"version": "1.0.0",
-	"api_version": "1.0.0",
-	"keywords": [
-		"Projector",
-		"Panasonic"
-	],
-	"manufacturer": "Panasonic",
-	"product": "Projector",
-	"shortname": "projectors",
-	"description": "Panasonic Projectors plugin for Companion",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"author": "Jake Jones <jake@thejoneses.family>",
-	"license": "MIT"
+  "name": "panasonic-projectors",
+  "version": "1.0.0",
+  "api_version": "1.0.0",
+  "keywords": [
+    "Projector",
+    "Panasonic"
+  ],
+  "manufacturer": "Panasonic",
+  "product": "Projector",
+  "shortname": "projectors",
+  "description": "Panasonic Projectors plugin for Companion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Jones <jake@thejoneses.family>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakenjones/companion-module-panasonic-projectors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jakenjones/companion-module-panasonic-projectors/issues"
+  },
+  "homepage": "https://github.com/jakenjones/companion-module-panasonic-projectors#readme"
 }
